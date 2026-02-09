@@ -1,3 +1,5 @@
+![Aria banner](assets/banner.png)
+
 
 # Aria Solenne 🩵
 
